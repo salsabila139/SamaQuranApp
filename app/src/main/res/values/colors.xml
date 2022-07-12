@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#488396</color>
+    <color name="purple_500">#488396</color>
+    <color name="purple_700">#488396</color>
+    <color name="teal_200">#488396</color>
+    <color name="teal_700">#488396</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="hijau">#488396</color>
+    <color name="hijau_transparant">#CBE8F9</color>
+    <color name="hijau_tosca">#70B0BF</color>
+    <color name="hijau_tosca_muda">#70B0BF</color>
+    <color name="biru_muda">#EEF7F7</color>
+
+</resources>

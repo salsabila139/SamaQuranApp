@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">SamaQuran</string>
+    <string name="sama_quran">SAMAQURAN</string>
+    <string name="sama_quran_desc">Learn Quran and Recite\n once everyday</string>
+    <string name="sign_in">Sign In</string>
+    <string name="get_started">Get Started</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="masuk_akun">Masuk Akun</string>
+    <string name="lanjutkan">Lanjutkan</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="name">Name</string>
+    <string name="email">Email Address</string>
+    <string name="daftar_akun">Daftar Akun Baru</string>
+    <string name="samaquran">SAMAQURAN</string>
+    <string name="salam">Assalamu\'alaikum</string>
+    <string name="alfatihah">Al-Fatihah</string>
+    <string name="logout">Log out</string>
+    <string name="_1">1</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="surat">Surat</string>
+    <string name="tafsir">Tafsir</string>
+    <string name="bookmark">Bookmark</string>
+    <string name="ayat_arab">الْحَمْدُ لِلَّهِ رَبِّ الْعالَمِينَ 1</string>
+    <string name="ayat_arti">1. Segala puji bagi Allah, Tuhan semesta alam.</string>
+    <string name="ayat_1">Ayat 1 \nSurah al-Fatihah dimulai dengan Basmalah Ada beberapa pendapat ulama berkenaan dengan Basmalah yang terdapat pada permulaan surah Al-Fatihah. Di antara pendapat-pendapat itu, yang termasyhur ialah:\n 1.Basmalah adalah ayat tersendiri, diturunkan Allah untuk jadi kepala masing-masing surah, dan pembatas antara satu surah dengan surah yang lain. Jadi dia bukanlah satu ayat dari al-Fatihah atau dari surah yang lain, yang dimulai dengan Basmalah itu. Ini pendapat Imam Malik beserta ahli qiraah dan fuqaha (ahli fikih) Medinah, Basrah dan Syam, dan juga pendapat Imam Abu Hanifah dan pengikut-pengikutnya. Sebab itu menurut Imam Abu Hanifah, Basmalah itu tidak dikeraskan membacanya dalam salat, bahkan Imam Malik tidak membaca Basmalah sama sekali.</string>
+</resources>
